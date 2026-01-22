@@ -100,4 +100,4 @@ async function giveRoleEverywhere(message) {
 }
 
 // 🔑 PUT YOUR BOT TOKEN HERE
-client.login("MTQ2Mzk5ODYzNTgwODM5MTM2OQ.GeiHp3.otUPycgwipnKOiIcYmdTkU-USs3DFn2xDijz4k");
+client.login(process.env.BOT_TOKEN);
